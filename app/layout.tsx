@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "TransitPulse",
   description: "Public transport disruption monitor and commuter dashboard.",
